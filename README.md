@@ -65,14 +65,6 @@
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-###
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sami-athari/count.svg?"  />
-</div>
 
 ###
 
