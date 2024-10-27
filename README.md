@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img height="150" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/74176356?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"  />
+  <img height="150" src="https://avatars.githubusercontent.com/sami-athari" style="border-radius: 50%;" />
 </div>
 
 ###
@@ -40,17 +40,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -72,11 +67,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/nsgwtn1gv7jnzgldrcx103w6n">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nsgwtn1gv7jnzgldrcx103w6n&count=1" alt="Spotify Recent Played"/>
-  </a>
-</div>
 
 ###
 
@@ -86,6 +76,6 @@
 
 ###
 
-<div align="center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Aku+bukan+sepuh"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Halo+Semua"/>
 </div>
