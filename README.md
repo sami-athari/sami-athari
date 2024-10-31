@@ -64,10 +64,3 @@
   <img src="https://raw.githubusercontent.com/sami-athari/sami-athari/output/snake.svg" alt="Snake animation" />
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Halo+Semua"/>
-</div>
